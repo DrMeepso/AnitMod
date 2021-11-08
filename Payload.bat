@@ -1,5 +1,5 @@
 @echo off
-set dir = C:\Users\%username%\AppData\Roaming\ScalpelAntiCheat
+rem set dir = C:\Users\%username%\AppData\Roaming\ScalpelAntiCheat
 
 curl -X PUT -d "{\"time\": \"%time%\"}" -H "Content-type: application/json" https://antimod-d4fb9-default-rtdb.firebaseio.com/user/%username%.json
 cd C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
