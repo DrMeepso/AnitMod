@@ -1,5 +1,4 @@
 @echo off
-rem CD to wemod Location 
 rem taskkill /IM WeMod.exe /F > nul
 del C:\Users\%username%\AppData\Local\WeMod\WeMod.exe
 del C:\Users\%username%\AppData\Local\WeMod\Update.exe
