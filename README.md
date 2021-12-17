@@ -1,7 +1,7 @@
 This is for educational purposes only!!!!!
-# AnitMod
+# Scalpel Anti Cheat
 
-A program that removes wemod on startup becuase wemod is shit
+A anticheat for Phasmophobia to not allow wemod to work well phasmo is open 
 
 ### Install
 Run this command in the CMD to install it
