@@ -1,3 +1,6 @@
+# dont install this :/
+## if you for whatever reason installed this go [here](https://github.com/DrMeepso/AntiMod/issues/1)
+
 This is for educational purposes only!!!!!
 # Scalpel Anti Cheat
 
